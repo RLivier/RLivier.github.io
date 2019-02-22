@@ -1,0 +1,16 @@
+h1 {color:orange;font-family: cursive;
+}
+h1 {background-color: grey;}
+h1 {font-size: 255%;}
+h1 {padding-left: 50px;}
+
+body {background-color: white;}
+
+img {margin-left: 50px;}
+
+p {padding-bottom: 20px;}
+p {padding-left: 50px;}
+
+.top {background-color: orange;float: inherit;}
+
+#highlight {background-color: inherit;}
