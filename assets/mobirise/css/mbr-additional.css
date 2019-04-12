@@ -1787,6 +1787,7 @@ body {
 }
 .cid-rkCI0sczzd .mbr-text P {
   text-align: left;
+  color: #232323;
 }
 .cid-rkCIo8utFN {
   background: #ffffff;
@@ -1819,6 +1820,9 @@ body {
 .cid-rkCKQL74C4 .mbr-text,
 .cid-rkCKQL74C4 blockquote {
   color: #767676;
+}
+.cid-rkCKQL74C4 .mbr-text P {
+  color: #232323;
 }
 .cid-rkCX8bjWSU {
   background: #ffffff;
@@ -2717,6 +2721,12 @@ body {
 .cid-rkCBQcqiYv .mbr-text,
 .cid-rkCBQcqiYv blockquote {
   color: #767676;
+}
+.cid-rkCBQcqiYv .mbr-text P {
+  color: #232323;
+}
+.cid-rkCBQcqiYv .mbr-text DIV {
+  color: #232323;
 }
 .cid-rjzUO7NRCl .navbar {
   padding: .5rem 0;
